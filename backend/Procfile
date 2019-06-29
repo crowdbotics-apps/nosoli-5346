@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT nosoli_5346.wsgi:application
